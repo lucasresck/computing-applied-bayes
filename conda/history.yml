@@ -3,4 +3,5 @@ channels:
   - defaults
 dependencies:
   - python=3.7
+  - pandas
 prefix: /home/lucasresck/miniconda3/envs/bayesian-computing
