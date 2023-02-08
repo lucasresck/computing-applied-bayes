@@ -1,7 +1,0 @@
-name: bayesian-computing
-channels:
-  - defaults
-dependencies:
-  - python
-  - pystan
-prefix: /home/lucasresck/miniconda3/envs/bayesian-computing
