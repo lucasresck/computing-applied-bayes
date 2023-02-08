@@ -1,0 +1,6 @@
+name: bayesian-computing
+channels:
+  - defaults
+dependencies:
+  - python
+prefix: /home/lucasresck/anaconda3/envs/bayesian-computing
