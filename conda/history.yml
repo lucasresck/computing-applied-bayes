@@ -3,4 +3,5 @@ channels:
   - defaults
 dependencies:
   - python
-prefix: /home/lucasresck/anaconda3/envs/bayesian-computing
+  - pystan
+prefix: /home/lucasresck/miniconda3/envs/bayesian-computing
